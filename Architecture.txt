@@ -1,0 +1,13 @@
+Real-Time Streaming Data Pipeline
+
+Free API (CoinGecko)
+        ↓
+Python Producer
+        ↓
+Apache Kafka (EC2)
+        ↓
+Python Consumer
+        ↓
+Amazon S3 Data Lake
+        ↓
+Amazon Athena (Query Layer)
