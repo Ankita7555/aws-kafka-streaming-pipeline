@@ -35,10 +35,9 @@ json
     "bitcoin": {"usd": 67000},
     "ethereum": {"usd": 1950}
   }
+}
 
 Steps:
 Setup Steps - Launch EC2 instance - Install Java and Kafka - Start Zookeeper and Kafka - Create Kafka topic - Run producer - 
 Run consumer - Verify files in S3
-}
-  }
-}
+
